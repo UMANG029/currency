@@ -1,0 +1,80 @@
+body{
+background-color: rgb(255, 170, 80);
+
+}
+
+
+.container{
+background-color:white;
+height: 118vmin;
+width: 60vmin;
+padding: 3vmin 3vmin 3vmin 3vmin;
+position: absolute;
+left: 17vmin;
+top: 20vmin;
+font-size: 2.6vmin;
+border-radius: 2vmin;
+}
+.curr{
+font-size: 3vmin;
+
+}
+.dropdown{
+display:flex;
+position: relative;
+top: 3vmin;
+justify-content: space-between;
+
+}
+form select,button,input{
+
+width: 100%;
+border: none;
+}
+.but{
+position: relative;
+top: 25vmin;
+font-size: 3.34vmin;
+cursor: pointer;
+background-color: rgba(165, 75, 42, 0.813);
+width: 58vmin;
+height: 6vmin;
+margin-left: 1vmin;
+border-radius: 2vmin;
+}
+#form{
+border-radius: .34vmin;
+border: 0.23vmin solid black;
+padding: 2vmin;
+
+}
+.para{
+border: 0.3vmin solid black;
+border-radius: .34vmin;
+font-size: 5vmin;
+margin-top: 2vmin;
+
+
+}
+.msg{
+
+display: flex;
+justify-content: center;
+align-items: center;
+position: relative;
+top: 9vmin;
+font-size: 7vmin;
+
+}
+.reset{
+    position: relative;
+    top: 30vmin;
+    font-size: 3.34vmin;
+    cursor: pointer;
+    background-color: rgba(165, 75, 42, 0.813);
+    width: 58vmin;
+    height: 6vmin;
+    margin-left: 1vmin;
+    border-radius: 2vmin;
+
+}
